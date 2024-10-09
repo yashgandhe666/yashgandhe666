@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Yash 👋
 
-<!--
-**yashgandhe666/yashgandhe666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gandhe)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YashGandhe)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.yashgandhe.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+Currently working as a solo developer on building my own SAAS products.
+
+### 🎓 Education & Work Experience
+
+- 🏫 Graduated from [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/) with a degree in Chemical Engineering
+- 💼 Previously worked at [Amazon Web Services, Dublin](https://aws.amazon.com/) as a Software Engineer
+- 💼 Previously worked at [Groww, Bangalore](https://groww.in/) as a Software Engineer
+- 💼 Previously worked at [FICO, Bangalore](https://www.fico.com/) as a Software Engineer
+
+### 🔭 What I'm up to
+
+- Currently working on BadgeCub [WIP]
+- Learning and trying out Calisthenics 🏋🏼
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?yashgandhe666&color=blue&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/yashgandhe666?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/yashgandhe666?tab=followers)
+
+</div>
