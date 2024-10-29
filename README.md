@@ -22,8 +22,8 @@ Currently working as a solo developer on building my own SAAS products.
 
 ### 🔭 What I'm up to
 
-- Currently working on BadgeCub [WIP]
-- Learning and trying out Calisthenics 🏋🏼
+- Currently building [BadgeCub](https://badgecub.com) [WIP]
+- Learning Calisthenics at the moment 🏋🏼
 
 <div align="center">
 
