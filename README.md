@@ -18,11 +18,12 @@ Currently working as a solo developer on building my own SAAS products.
 - 💼 Previously worked at [Amazon Web Services, Dublin](https://aws.amazon.com/) as a Software Engineer
 - 💼 Previously worked at [Groww, Bangalore](https://groww.in/) as a Software Engineer
 - 💼 Previously worked at [FICO, Bangalore](https://www.fico.com/) as a Software Engineer
+- 💼 Previously worked at [Couture.ai, Bangalore](https://couture.ai) as a Machine Learning Intern
 - 🏫 Graduated from [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/) with a degree in Chemical Engineering
 
 ### 🔭 What I'm up to
 
-- Currently building [BadgeCub](https://badgecub.com) [WIP]
+- Currently building [BadgeCub](https://badgecub.com)
 - Learning Calisthenics at the moment 🏋🏼
 
 <div align="center">
