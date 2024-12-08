@@ -23,7 +23,7 @@ Currently working as a solo developer on building my own SAAS products.
 
 ### 🔭 What I'm up to
 
-- Currently building [BadgeCub](https://badgecub.com)
+- Currently building [BadgeCub](https://badgecub.com), [IndieBookmark](https://indiebookmark.com)
 - Learning Calisthenics at the moment 🏋🏼
 
 <div align="center">
