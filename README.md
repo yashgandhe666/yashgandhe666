@@ -13,18 +13,19 @@
 
 Currently working as a solo developer on building my own SAAS products.
 
-### 🎓 Education & Work Experience
+### Education & Work Experience
 
-- 💼 Previously worked at [Amazon Web Services, Dublin](https://aws.amazon.com/) as a Software Engineer
-- 💼 Previously worked at [Groww, Bangalore](https://groww.in/) as a Software Engineer
-- 💼 Previously worked at [FICO, Bangalore](https://www.fico.com/) as a Software Engineer
-- 💼 Previously worked at [Couture.ai, Bangalore](https://couture.ai) as a Machine Learning Intern
-- 🏫 Graduated from [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/) with a degree in Chemical Engineering
+- Previously worked at [Amazon Web Services, Dublin](https://aws.amazon.com/) as a Software Engineer
+- Previously worked at [Groww, Bangalore](https://groww.in/) as a Software Engineer
+- Previously worked at [FICO, Bangalore](https://www.fico.com/) as a Software Engineer
+- Previously worked at [Couture.ai, Bangalore](https://couture.ai) as a Machine Learning Intern
+- Graduated from [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)
 
-### 🔭 What I'm up to
-
-- Currently building [BadgeCub](https://badgecub.com), [IndieBookmark](https://indiebookmark.com)
-- Learning Calisthenics at the moment 🏋🏼
+### Products I've built
+- [SubFarm](https://subfarm.app) - Track your subscriptions
+- [Bionica](https://apps.apple.com/in/app/speed-reading-bionica/id6743858611) - Speed Reading for ADHD
+- [BadgeCub](https://badgecub.com) - Directory for your startups
+- [IndieBookmark](https://indiebookmark.com) - Bookmark your favourite indie tools
 
 <div align="center">
 
