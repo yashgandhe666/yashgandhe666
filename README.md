@@ -26,7 +26,7 @@ Currently working as a solo developer on building my own SAAS products.
 - [SubFarm](https://subfarm.app) - Track your subscriptions
 - [Bionica](https://apps.apple.com/in/app/speed-reading-bionica/id6743858611) - Speed Reading for ADHD
 - [BadgeCub](https://badgecub.com) - Directory for your startups
-- [IndieBookmark](https://indiebookmark.com) - Bookmark your favourite indie tools
+- 💀[IndieBookmark](https://indiebookmark.com) - Bookmark your favourite indie tools
 
 <div align="center">
 
