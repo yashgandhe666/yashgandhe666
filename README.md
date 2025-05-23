@@ -22,6 +22,7 @@ Currently working as a solo developer on building my own SAAS products.
 - Graduated from [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)
 
 ### Products I've built
+- [Pic2Sticker](https://apps.apple.com/in/app/sticker-maker-pic2sticker/id6745115234) - WA Sticker maker from your pics
 - [deeply.](https://getdeeply.app) - never have a dull conversation
 - [SubFarm](https://subfarm.app) - Track your subscriptions
 - [Bionica](https://apps.apple.com/in/app/speed-reading-bionica/id6743858611) - Speed Reading for ADHD
