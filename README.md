@@ -21,14 +21,6 @@ Currently working as a solo developer on building my own SAAS products.
 - Previously worked at [Couture.ai, Bangalore](https://couture.ai) as a Machine Learning Intern
 - Graduated from [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)
 
-### Products I've built
-- [Pic2Sticker](https://apps.apple.com/in/app/sticker-maker-pic2sticker/id6745115234) - WA Sticker maker from your pics
-- [deeply.](https://getdeeply.app) - never have a dull conversation
-- [SubFarm](https://subfarm.app) - Track your subscriptions
-- [Bionica](https://apps.apple.com/in/app/speed-reading-bionica/id6743858611) - Speed Reading for ADHD
-- [BadgeCub](https://badgecub.com) - Directory for your startups
-- 💀[IndieBookmark](https://indiebookmark.com) - Bookmark your favourite indie tools
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?yashgandhe666&color=blue&style=flat)
