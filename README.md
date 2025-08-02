@@ -4,10 +4,9 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](https://www.yashgandhe.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gandhe)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/YashGandhe)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://blog.yashgandhe.com/)
+[![Blog](https://img.shields.io/badge/Blog-0F9D58?logo=safari&logoColor=fff)](https://www.yashgandhe.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yash-gandhe)
 
 </div>
 
